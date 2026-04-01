@@ -1,6 +1,6 @@
 # Simulador de Missão Espacial - Telemetria em Python
 
-Este projeto foi desenvolvido para o curso de Ciência da Computação. Ele consiste em um sistema que lê dados de telemetria de um foguete, realiza verificações de segurança e calcula a autonomia energética para decidir se a decolagem deve prosseguir ou ser abortada.
+Este projeto foi desenvolvido para a ATIVIDADE INTEGRADORA – RELATÓRIO OPERACIONAL DE PRÉ-DECOLAGEM, do grupo 83 no curso de Ciência da Computação. Ele consiste em um sistema que lê dados de telemetria de um foguete, realiza verificações de segurança e calcula a autonomia energética para decidir se a decolagem deve prosseguir ou ser abortada.
 
 ## Funcionalidades
 - **Telemetria:** Monitoramento de temperatura, pressão, energia e integridade.
