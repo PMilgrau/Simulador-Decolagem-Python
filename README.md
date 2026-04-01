@@ -13,7 +13,7 @@ Este projeto foi desenvolvido para o curso de Ciência da Computação. Ele cons
 - Biblioteca `random` para simulação de dados
 
 ## Como executar
-1. Abra o arquivo `Untitled0.ipynb` presente neste repositório.
+1. Abra o arquivo `Simulador de Viagem Espacial` presente neste repositório.
 2. Você pode visualizá-lo diretamente no GitHub ou baixá-lo para rodar no seu ambiente local ou Google Colab.
 
 ## Exemplo de Execução
